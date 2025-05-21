@@ -1,6 +1,5 @@
 package com.newbieking.jersey_app;
 
-import com.newbieking.Hk2AutoScanner;
 import org.glassfish.hk2.api.ServiceLocator;
 import org.glassfish.jersey.server.ResourceConfig;
 

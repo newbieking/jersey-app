@@ -1,4 +1,4 @@
-package com.newbieking;
+package com.newbieking.jersey_app;
 
 
 import org.glassfish.hk2.api.ServiceLocator;
